@@ -1,0 +1,49 @@
+﻿  Bank System.cpp
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsInputValidation.h(108,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsInputValidation.h(112,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\people\clsClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\people\clsClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\people\clsClient.h(370,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Screens\clsAddNewClientScreen.h(29,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Screens\clsUpdateClientScreen.h(45,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Utilities\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\Screens\Transactions\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Gipreel\source\repos\Bank System\Bank System\people\clsClient.h(312,1): warning C4715: 'clsClient::Save': not all control paths return a value
+C:\Users\Gipreel\source\repos\Bank System\Bank System\people\clsUser.h(308,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\Gipreel\source\repos\Bank System\x64\Debug\Bank System.exe
